@@ -1,3 +1,4 @@
+PYTHON/EXECUTE
 defmain():
 print("hello from NGF Day 1!")
 
